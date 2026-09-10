@@ -175,6 +175,4 @@ if image_input:
             st.progress(float(conf))
 
 st.markdown("---")
-st.caption("Teachable Machine Studio • Powered by Keras & Streamlit") con Probabilidad: '+str( prediction[0][2]))
-
-
+st.caption("Teachable Machine Studio • Powered by Keras & Streamlit")
